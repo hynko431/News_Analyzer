@@ -1,0 +1,14 @@
+# News Analyzer Project Structure
+
+```
+news_analyzer/
+├── app.py                  # Main Streamlit application
+├── api.py                  # API endpoints for backend-frontend communication
+├── utils.py                # Utility functions for data processing
+├── models.py               # ML model loading and utilities
+├── requirements.txt        # Dependencies
+├── README.md               # Documentation
+├── static/                 # Static assets
+│   └── logo.png            # App logo (You'll need to create this)
+└── tests/                  # Unit tests
+    └── test
