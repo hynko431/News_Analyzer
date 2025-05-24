@@ -141,6 +141,7 @@ temp_audio/
 
 # IDE files
 .vscode/
+.vscode/settings.json
 .idea/
 *.swp
 *.swo
