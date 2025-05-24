@@ -7,7 +7,7 @@
 
 A comprehensive web application for analyzing company news sentiment with **automatic bilingual text-to-speech functionality**. Get instant sentiment analysis in both **English and Hindi** without language selection hassle!
 
-[![Python]("C:\Users\hulkh\Downloads\TTS img1.png")]
+[![Python](https://drive.google.com/file/d/1wsxHKjLmjFGjl90pMMRDULhWHh7eNgYX/view?usp=drive_link))]
 
 ## ✨ Key Features
 
