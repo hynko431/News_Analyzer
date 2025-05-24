@@ -7,8 +7,6 @@
 
 A comprehensive web application for analyzing company news sentiment with **automatic bilingual text-to-speech functionality**. Get instant sentiment analysis in both **English and Hindi** without language selection hassle!
 
-![My Python Diagram](https://drive.google.com/uc?export=view&id=1wsxHKjLmjFGjl90pMMRDULhWHh7eNgYX)
-
 ## ✨ Key Features
 
 - 📰 **Real-time news aggregation** from multiple sources (Google News, Bing News)
